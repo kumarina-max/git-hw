@@ -31,7 +31,7 @@ https://github.com/kumarina-max/my-first-repo/commit/e8eb71ebd4ad59f3f0c5b821804
 
 ### Задание 2
 
-
+https://github.com/kumarina-max/my-first-repo/commit/65b46df10443ddf97b26d392bb315d3fab6c6246
 
 ---
 
